@@ -1,5 +1,7 @@
 By: Derek Santos
 
+Using Python 3.
+
 SHOULD only work on Mac and Linux. For now.
 
 WordsToDelete.txt is what words you would like to delete from a given
