@@ -1,1 +1,1 @@
-Please delete this line, and place any words you wish to delete within a file name.
+Delete this line, and starting listing words you would like to delete line by line. Make sure to check the 'options'.
