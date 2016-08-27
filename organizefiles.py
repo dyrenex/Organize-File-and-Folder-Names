@@ -2,7 +2,7 @@ import os
 #from glob import glob
 
 options = {
-            'words_file'        : 'WordsToDelete.txt',
+            'words_file'        : 'NULL',
             'include_files'     : True,
             'include_folders'   : True,
             'periods'           : True,
